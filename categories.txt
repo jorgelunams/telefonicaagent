@@ -1,0 +1,21 @@
+ 
+ Telefono perdido
+ Telefono desconectado
+ Configuracion Smartphone
+ Movistar TV 
+ Cobertura 
+ Configuracion red
+ Internet Casa
+ Linea Telefonica fija
+ Roaming
+ Internet Movil  
+ SIMCARD
+ Facturacion 
+ No Navega 
+ No puede llamar o recibir llamadas
+ No puede enviar or recibir SMS 
+ Problema Logistico 
+ Internet caido
+ Problemas de red movil   
+ 
+
