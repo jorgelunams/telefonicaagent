@@ -1,0 +1,30 @@
+Gestionar Solicitudes - Reposición de Servicios - Restitución SIMCARD por sinies
+Móvil Funcionamiento - Alta/Baja de Productos y/o Servicios - Habilitación DSP
+Móvil Funcionamiento - Alta/Baja de Productos y/o Servicios - MCSS (Web), APP, R
+Móvil Funcionamiento - Orden con Quiebres - Activar recursos de consumo
+Móvil Funcionamiento - Orden con Quiebres - Actividad evaluación de crédito
+Móvil Funcionamiento - Orden con Quiebres - Finalizar la acción de Orden
+Móvil Funcionamiento - Orden con Quiebres - Formulario de portabilidad
+Móvil Funcionamiento - Orden con Quiebres - Gestionar pago de AR
+Móvil Funcionamiento - Orden con Quiebres - Liberar Recursos
+Móvil Funcionamiento - Orden con Quiebres - Manejar respuesta de cumplimiento
+Móvil Funcionamiento - Orden con Quiebres - Negociar Distribución de Cargos
+Móvil Funcionamiento - Orden con Quiebres - Notificar a ESB
+Móvil Funcionamiento - Orden con Quiebres - Notificar Facturación
+Móvil Funcionamiento - Orden con Quiebres - Notificar Prod. Asig. (notificar a C
+Móvil Funcionamiento - Orden con Quiebres - Solicitar cumplimiento de orden
+Móvil Funcionamiento - Orden con Quiebres - Solicitar logíst./Gestionar log.  de
+Móvil Funcionamiento - Servicio de Datos - Activación/Desactivación APN
+Móvil Funcionamiento - Servicio de Datos - Inconsistencia Comercial/Técnica
+Móvil Funcionamiento - Servicio de Datos - Navega lento
+Móvil Funcionamiento - Servicio de Datos - No navega
+Móvil Funcionamiento - Servicio de Datos - No se Renueva Umbral
+Móvil Funcionamiento - Servicio de Voz - Grabacion de Operadora
+Móvil Funcionamiento - Servicio de Voz - Inconsistencia Comercial/Técnica
+Móvil Funcionamiento - Servicio de Voz - No Puedo Llamar/Recibir Llamadas
+Móvil Funcionamiento - Servicio de Voz - Suspensión Rehabilitacion
+Móvil Funcionamiento - SVA (Servicios de Valor Agregado) - Backtone
+Móvil Funcionamiento - SVA (Servicios de Valor Agregado) - SMS
+Móvil Funcionamiento - SVA (Servicios de Valor Agregado) - SOS
+Móvil Funcionamiento - SVA (Servicios de Valor Agregado) - SVA Voz
+Móvil Gestionar Altas/Despacho - No ha Llegado Equipo - Pago Reflejado, No Exist

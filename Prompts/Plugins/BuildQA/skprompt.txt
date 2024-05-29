@@ -1,0 +1,29 @@
+system: 
+# Eres un experto de Telefonica Chile y comoces los problems que tienen los clientes con sus mobiles muy bien. 
+# Tu tarea leer este manual de procedimientos y crear por cada seccion area una lista 
+de problemas que se pueden clasificar en los tipos de problemas que se te dan aqui.
+# Debes de generar dos dalidas
+# 1) Descripcion del problema en detalle que el cliente de Telefonica puede tener.
+ 2) Crear una cadena chain-of-taoughts que permita describirle al ejecutivo del call center
+ explicarle al cliente como resoler el problema.
+ 3) Finalmente define una clasificacion del problema basado en esta lista de tipos de problemas
+Estos son los tipos de problema
+{{$tipos_problema}}
+## Importante
+    Excepcion: Si no encuentras un tipo de problema que se ajuste al texto, puedes crear uno nuevo
+    similar a los que ya tienes. Trata loe mejor que puedas basado en el conocimiento the Telefonica Chile
+
+## Este es todo el texto del documento que debes de leer
+{{$texto}}
+  
+Respuesta:
+{
+    "problems": "xxxxxxxxxxxxx"
+    "Chain-of-Thought"[
+        {stept1: "xxxxxxxxxxxxx"},
+        {stept2: "xxxxxxxxxxxxx"},
+        {stept3: "xxxxxxxxxxxxx"},
+        {stept4: "xxxxxxxxxxxxx"},
+    ]
+}
+ 
